@@ -1,0 +1,12 @@
+{
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "auto",
+  "enable": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "bracketSameLine": false,
+  "printWidth": 80,
+  "quoteProps": "as-needed",
+  "singleQuote": true,
+  "trailingComma": "es5"
+}
