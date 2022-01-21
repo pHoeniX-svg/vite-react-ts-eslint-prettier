@@ -18,7 +18,7 @@ This is a boilerplate template for the technologies that I use. You can find mor
 
 ## Installation
 
-- Clone the repo using `npx degit pHoeniX-svg/my-react-ts-starter-vite#main name-of-your-project`
+- Clone the repo using `npx degit pHoeniX-svg/vite-react-ts-eslint-prettier#main name-of-your-project`
 - change into your project's directory and install the dependencies using the commands below:
 - cd `name-of-your-project`, then run `yarn` or `yarn install`
 
