@@ -25,3 +25,7 @@ This is a boilerplate template for the technologies that I use. You can find mor
 ## Start Server
 
 - After the successfull installation of the packages: run `yarn dev` to start up the dev server
+
+### Upgrades 
+
+-  Updating or fixing issues with the project are welcome. Just make make a fork of the repo and create a pull request
